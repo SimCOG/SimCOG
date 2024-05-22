@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personnal app
 - 🌱 I’m currently learning React Native and C#
-<img align="left" alt="stats" src="https://github-readme-stats-blush-alpha-43.vercel.app/api?username=SimCOG"/>
+<img align="left" alt="stats" src="https://github-readme-stats-blush-alpha-43.vercel.app/api/wakatime?username=SimCOG"/>
