@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![SimCOG's WakaTime stats](https://github-readme-stats-nine-sigma-12.vercel.app/api/wakatime?username=SimCOG)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SimCOG's GitHub stats](https://github-readme-stats-nine-sigma-12.vercel.app/wakatime?username=SimCOG&theme=dracula&local=fr)]
+[![SimCOG's GitHub stats](https://github-readme-stats-nine-sigma-12.vercel.app/api?username=SimCOG&theme=dracula&local=fr)](https://github.com/anuraghazra/github-readme-stats)
