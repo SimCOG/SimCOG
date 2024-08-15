@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personnal app
 - 🌱 I’m currently learning React Native and C#
+
+
+
 [![SimCOG's GitHub stats](https://github-readme-stats-nine-sigma-12.vercel.app/api?username=SimCOG)](https://github.com/anuraghazra/github-readme-stats)
 
