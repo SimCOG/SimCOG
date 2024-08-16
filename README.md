@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 Few stats :
 
-[![SimCOG's WakaTime stats](https://github-readme-stats-nine-sigma-12.vercel.app/api/wakatime?username=SimCOG&theme=dracula&local=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![SimCOG's WakaTime stats](https://github-readme-stats-nine-sigma-12.vercel.app/api/wakatime?username=SimCOG&theme=dracula&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SimCOG's GitHub stats](https://github-readme-stats-nine-sigma-12.vercel.app/api?username=SimCOG&theme=dracula&local=fr&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![SimCOG's GitHub stats](https://github-readme-stats-nine-sigma-12.vercel.app/api?username=SimCOG&theme=dracula&locale=fr&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
