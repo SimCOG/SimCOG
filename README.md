@@ -21,8 +21,10 @@ Here are some ideas to get you started:
   - Back: **C# / Entity Framework Core** w **PostgreSQL** DB
 
 🔓 **Security Enthusiast**  
+
 OSINT | XSS/SQLi/CSRF exploitation | Traffic interception  
 CVE enumeration | ML for threat detection
+LLM jailbreaking & adversarial prompt engineering
 
 Few stats :
 
