@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personnal app
-- 🌱 I’m currently learning React Native and C#
+👨‍💻 **Fullstack Developer**  
+- 🚀 Currently building a personal fullstack project:
+  - Front: **React Native**
+  - Back: **C# / Entity Framework Core** w **PostgreSQL** DB
+
+🔓 **Security Enthusiast**  
+OSINT | XSS/SQLi/CSRF exploitation | Traffic interception  
+CVE enumeration | ML for threat detection
 
 Few stats :
 
